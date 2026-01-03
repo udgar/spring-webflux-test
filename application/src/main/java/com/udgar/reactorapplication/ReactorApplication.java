@@ -1,4 +1,4 @@
-package com.udgar.reactor;
+package com.udgar.reactorapplication;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

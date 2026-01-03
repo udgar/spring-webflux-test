@@ -1,4 +1,4 @@
-package com.udgar.reactor;
+package com.udgar.reactorapplication;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
