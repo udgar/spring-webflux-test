@@ -1,0 +1,1 @@
+This is a vallid text file used in order to check whether the files are downloaded properly or not.
